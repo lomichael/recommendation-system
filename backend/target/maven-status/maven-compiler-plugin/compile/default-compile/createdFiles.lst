@@ -1,0 +1,9 @@
+com/example/recommendationsystem/CorsConfig.class
+com/example/recommendationsystem/model/Content.class
+com/example/recommendationsystem/repository/UserRepository.class
+com/example/recommendationsystem/DataLoader.class
+com/example/recommendationsystem/repository/ContentRepository.class
+com/example/recommendationsystem/RecommendationsystemApplication.class
+com/example/recommendationsystem/model/User.class
+com/example/recommendationsystem/controller/RecommendationController.class
+com/example/recommendationsystem/CorsConfig$1.class

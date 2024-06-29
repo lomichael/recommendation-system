@@ -1,0 +1,8 @@
+/Users/lomichael/projects/recommendation-system/backend/src/main/java/com/example/recommendationsystem/CorsConfig.java
+/Users/lomichael/projects/recommendation-system/backend/src/main/java/com/example/recommendationsystem/DataLoader.java
+/Users/lomichael/projects/recommendation-system/backend/src/main/java/com/example/recommendationsystem/RecommendationsystemApplication.java
+/Users/lomichael/projects/recommendation-system/backend/src/main/java/com/example/recommendationsystem/controller/RecommendationController.java
+/Users/lomichael/projects/recommendation-system/backend/src/main/java/com/example/recommendationsystem/model/Content.java
+/Users/lomichael/projects/recommendation-system/backend/src/main/java/com/example/recommendationsystem/model/User.java
+/Users/lomichael/projects/recommendation-system/backend/src/main/java/com/example/recommendationsystem/repository/ContentRepository.java
+/Users/lomichael/projects/recommendation-system/backend/src/main/java/com/example/recommendationsystem/repository/UserRepository.java
